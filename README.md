@@ -112,13 +112,3 @@ mvn -q test
 - Validate tokens at the gateway and/or inside each service.
 
 ---
-
-### Contribution
-1) Create a feature branch.
-2) Make changes with clear commits and tests.
-3) Open a PR describing what changed and how to validate it.
-
----
-
-### Credits
-Architecture image resides in `images/architecture.png`. If you have a better diagram, replace the image while keeping the same filename to preserve references.
